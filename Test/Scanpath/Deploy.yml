@@ -17,4 +17,4 @@ spec:
   hostNetwork: true
   hostPorts:
   - min: 1
-    max: 65536
+    max: 65535
